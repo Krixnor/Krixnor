@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Krixnor
-- 👀 I’m interested in Data science,Excel
-- 🌱 I’m currently learning python 🐍,Excel 📊
+- 👀 I’m interested in Web Dev, Data science
+- 🌱 I’m currently advancing my knowledge on python🐍
 - 💞️ I’m looking to collaborate on python
-- 📫 How to reach me on 
+- 📫 How to reach me on
+- Currently mastering web dev
 
 <!---
 Krixnor/Krixnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
